@@ -223,7 +223,7 @@ li.nav-menu-item:hover a::after{
 }
 
 .features-item{
-	width: 25vw;
+	width: 25%;
 	background-color: #18cfab;
 	text-transform: uppercase;
 	text-decoration: none;
